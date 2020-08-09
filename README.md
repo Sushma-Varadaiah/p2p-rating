@@ -34,7 +34,7 @@ Command to compile and deploy the smart contracts to Ganache network.
 
 > truffle deploy
 
-This should create the contract creation transactions which is visible in Ganche console. You can also see the address where the smart contract is deployed.
+This should create the contract creation transactions which is visible in Ganache console. You can also see the address where the smart contract is deployed.
 
 Copy the address and paste in rating.js file.
 ex: const contractAddress = '0x47C9d63c87EdE1867ED88595364E4B68dBf7BB97'
@@ -63,4 +63,4 @@ Click on GetRate - to get the ratings of a user.
 
 Improve the UI by giving more flexible options to see whether a particular user has rated another particular user or not. (Tested in remix).
 
-On change of the metamask account seemlessly show the chnaged user page for that particular account.
+On change of the metamask account seemlessly show the changed user page for that particular account.
